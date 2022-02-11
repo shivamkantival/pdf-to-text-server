@@ -2,6 +2,10 @@
 .vscode
 .idea
 
+# Temp files
+temp/
+.DS_Store
+
 # Logs
 logs
 *.log
